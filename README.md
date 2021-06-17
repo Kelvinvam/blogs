@@ -1,12 +1,12 @@
-<head>
+
+# blogs --- 
 <link href="https://fonts.googleapis.com/css2?family=Viaoda+Libre&display=swap" rel="stylesheet">
-</head>
+
 <style>
- h3 {
-  font-family: "Sofia", sans-serif;
+h3 {
+  font-family: 'Viaoda Libre', cursive;
 }
 </style>
-# blogs --- 
 <h3>Lame Man wins</h3>
 ```markdown
 There are many ways in order to archieve ones goal, one way no one get to ever try is to set a time stamp in which it is faster than their lifetime, in which case i might be delusional. I love it, although not all, like literally but it is a fun experience, 

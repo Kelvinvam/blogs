@@ -6,4 +6,4 @@ Many reasons:
 2.failure to stop low level activities from taking up a long time (TV, youtube, twitter)
 3.not enough good socialization
 ```
-# anyway [here](/predictions)
+# anyway [here](/blogs/predictions)

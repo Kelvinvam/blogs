@@ -4,3 +4,6 @@
 
 # [predictions(drunk)](/blogs/predictions)
 
+# [predictions(undrunk)](/blogs/confident-predictions)
+
+

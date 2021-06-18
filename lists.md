@@ -6,4 +6,6 @@
 
 # [predictions(undrunk)](/blogs/confident-predictions)
 
+# [Nitter, twitter front end alt](/blogs/nitter)
+
 

@@ -1,7 +1,7 @@
 # What does university and colleges give you?
--community(socialize, networking,...)
--knowledge
--certification of having those knowledge
+- community(socialize, networking,...)
+- knowledge
+- certification of having those knowledge
 
 There are many more but those are what people find the most values out of being in them. What would be the case for having a replacement for all those 3. 
 I'll have the second one mapped out first, Knowledge is vast is has never seen a better day for its existence in this era, still there are certain quality

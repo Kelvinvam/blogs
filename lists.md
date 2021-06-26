@@ -8,4 +8,6 @@
 
 # [Nitter, twitter front end alt](/blogs/nitter)
 
+# [Student Debt Eraser](/blogs/student-debt-eraser)
+
 
